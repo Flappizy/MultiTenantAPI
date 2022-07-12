@@ -5,7 +5,7 @@ AuthPermissions.AspNetCore library created by * [Jon P. Smith](https://github.co
 # ERD
 The below image shows the relationships between the entities in the AuthPermissions.AspNetCore library
 
-<img src="Images/ER Diagram.png" height="75" width="200"/>
+<img src="Images/ER Diagram.png" height="500" width="500"/>
 
 # How to work with the code
 When running the code, you have to first get authenticated, the below shows how to do that
