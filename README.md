@@ -3,8 +3,7 @@ This is a simple multi tenant API that implements AUTH flow using JSON web Token
 AuthPermissions.AspNetCore library created by * [Jon P. Smith](https://github.com/JonPSmith/AuthPermissions.AspNetCore)
 
 # ERD
-The below image shows the Entity Relationship between the models that make up the Database Schema within the 
-AuthPermissions.AspNetCore
+The below image shows the relationships between the entities in the AuthPermissions.AspNetCore library
 
 <img src="images/ER Diagram.png" height="75" width="200"/>
 
